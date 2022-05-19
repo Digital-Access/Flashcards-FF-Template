@@ -76,8 +76,8 @@ body {
 
 .Btn:hover{
     box-shadow: rgba(0, 0, 0, 0.5) 0 0 4px;
-    background-color: #A6529A;
-    border: solid 1px #A6529A;
+    background-color: #EC526A;
+    border: solid 1px #EC526A;
 }
 
 .card {
@@ -87,7 +87,7 @@ body {
     align-items: center;
     width: 70%;
     height: 220px;
-    background-color: #172B49;
+    background-color: #534092;
     box-shadow: rgba(0, 0, 0, 0.556) 0px 0px 4px;
 }
 
@@ -157,6 +157,7 @@ body {
     padding: 0.5rem 0.5rem;
     outline: none;
     width: 95%;
+    border: none;
 }
 
 .inputInstructions{
@@ -175,16 +176,16 @@ body {
 
 .submit{
     display: none;
-    width: 100%;
+    width: 98%;
     padding: 0.5rem 1rem;
     cursor: pointer;
-    background-color: #25517B;
+    background-color: #534092;
     border: none;
 }
 
 .submit:hover{
     box-shadow: rgba(0, 0, 0, 0.419) 0 0px 4px;
-    background-color: #A6529A;
+    background-color: #EC526A;
 }
 
 .endImg{
