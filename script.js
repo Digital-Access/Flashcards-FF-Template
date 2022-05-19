@@ -1,12 +1,12 @@
 const config = {
     title: "Flashcards",
     instruction: "Test your knowledge by playing with the following flashcards. Guess the correct answer and then click \"Reveal Answer\" to see if you got it right!",
-    image: "https://a.storyblok.com/f/112136/373x445/175f800354/lucia-8.png",
-    background: "https://a.storyblok.com/f/112136/1920x1409/5ba98e7f92/texture-bg-5efdcf3715f790-74747584-606d864d1b22d1-55861802.jpg",
+    image: "",
+    background: "https://a.storyblok.com/f/117027/3129x2020/51e7d3b0d6/prelogin.png",
     background_color: "#25517B",
     correct_border: "rgb(18, 169, 71)",
     incorrect_border: "#ca2626",
-    end_image: "https://a.storyblok.com/f/112136/205x150/12867bb205/sporting-hero.png",
+    end_image: "",
     end_text: "Well Done! Click the “Next Video” button to proceed now.",
 }
 
